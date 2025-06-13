@@ -32,7 +32,7 @@ class AddMoneyActivity : AppCompatActivity(), PaymentResultListener {
 
     companion object {
         private const val TAG = "AddMoneyActivity"
-        private const val RAZORPAY_KEY_ID = "rzp_test_JAM1iybr6gVUvR"
+        private const val RAZORPAY_KEY_ID = "ENTER_YOUR_API_KEY"
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
