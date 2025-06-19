@@ -40,25 +40,6 @@ StepBet is a Kotlin-based Android fitness app that lets users bet real money on 
 
 ---
 
-## 🖼 Screenshots
-
-### 1. Create Challenge Screen
-Shows user-set goal and custom stake amount:
-![Create Challenge](stepbet_images/stepBet_challenge.jpg)
-
-### 2. Home Screen
-Live step counter and quick challenge setup:
-![Home Dashboard](stepbet_images/stepBet_home.jpg)
-
-### 3. Profile Screen
-Track success rate, total earnings, and challenges:
-![Profile](stepbet_images/stepbet_profile.jpg)
-
-### 4. Wallet Screen
-Track transactions, wallet balance, add/withdraw money:
-![Wallet](stepbet_images/stepbet_wallet.jpg)
-
----
 
 ## 🚀 Getting Started
 
